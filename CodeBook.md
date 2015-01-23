@@ -3,6 +3,10 @@ features Selection
 This is the CodeBook for the tidy dataset for course project of Getting and Cleaning data.
 =================
 
+Activity types include WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING.
+
+Subjects refer to 30 volunteers of the experiment.
+
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 
 These time domain signals use prefix 't' to denote time.
