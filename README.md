@@ -30,4 +30,6 @@ The dataset includes the following files:
 - 'mergedData.txt': consist of all the data from train and test dataset.
 - 'selectedData.txt':containing only mean and standard deviation for each measurement with activity and subject labeled.
 - 'understandData.txt': depending on selectedData, activity labels are replaced by decriptive activity names.
-- 'secondData.txt': a tidy data set with the average of each variable for each activity and each subject in selectedData. 
+- 'secondData.txt': required at step 5 in project-a tidy data set with the average of each variable for each activity and each subject in selectedData. 
+ 
+
