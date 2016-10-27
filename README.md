@@ -1,5 +1,5 @@
 # Project-for-Getting-and-Cleaning-Data
-This is the course project for Getting and Cleaning Data.
+This is the course project for Getting and Cleaning Data on Coursera.
 
 Tidy Dataset depending on "Human Activity Recognition Using Smartphones Dataset"
 
